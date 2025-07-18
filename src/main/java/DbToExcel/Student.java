@@ -1,4 +1,4 @@
-package DbExcel;
+package DbToExcel;
 
 public class Student {
     private int sid;

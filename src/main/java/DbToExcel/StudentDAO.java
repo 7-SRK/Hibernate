@@ -1,4 +1,4 @@
-package DbExcel;
+package DbToExcel;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package DbExcel;
+package DbToExcel;
 
 import jakarta.mail.MessagingException;
 
