@@ -26,7 +26,6 @@ public class ExcelReader {
                 int sid = (int) getNumericCellValueSafe(row, 0);
                 String sname = getStringCellValueSafe(row, 1);
                 double marks = getNumericCellValueSafe(row, 2);
-
                 students.add(new Students(sid, sname, marks));
             }
         }
